@@ -73,3 +73,11 @@
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
     </picture>
 </p>
+
+<p align="center">
+  <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
+</p>
+
+<p align="center">
+   ❤️ 
+</p>
